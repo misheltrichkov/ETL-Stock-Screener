@@ -1,0 +1,9 @@
+# Libraries used for the project
+pandas==2.2.1
+yfinance==0.2.37
+pytest==8.0.2
+sqlite3 #built-in module
+sys #built-in module
+
+# Optional:
+# SQLite Viewer extension to view the final output directly in VS Code.
